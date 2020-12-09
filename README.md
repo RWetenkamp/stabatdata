@@ -1,6 +1,6 @@
 # safedat
 ## abstract
-Wherever you share your personal data, you will never know exactely if your data is stored, deleted or used correctly and legal compliant. The purpose of this project is to find a data format technology which deletes itself after a set period of time. 
+Wherever you share your personal data, you will never know exactely if your data is stored, deleted or used correctly and legally compliant. The purpose of this project is creating a data format which deletes its content by itself after a set period of time. 
 ## goal
 Defining a data format or a technology which can be used in several web applications. 
 ## way of work
