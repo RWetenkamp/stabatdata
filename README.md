@@ -1,4 +1,4 @@
-# safedat
+# STABATDATA
 ## abstract
 Wherever you share your personal data, you will never know exactely if your data is stored, deleted or used correctly and legally compliant. The purpose of this project is creating a data format which deletes its content by itself after a set period of time. 
 ## goal
