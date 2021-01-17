@@ -8,5 +8,10 @@ Everyone is welcome to contribute to this project. You could write down your ide
 
 I really do not know if this is possible ... But there is just one way to find out: Trying. And if we succeed, we maybe found a way to enable more privacy.
 
+## goals
+- Traceability
+- Deletion
+- Ability to correct data
+
 ## contact
 info@rwetenkamp.de
